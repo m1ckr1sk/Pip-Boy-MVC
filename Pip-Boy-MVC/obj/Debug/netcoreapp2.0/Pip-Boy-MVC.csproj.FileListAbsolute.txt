@@ -1,0 +1,11 @@
+c:\users\mbutt\source\repos\Pip-Boy-MVC\Pip-Boy-MVC\bin\Debug\netcoreapp2.0\Pip-Boy-MVC.deps.json
+c:\users\mbutt\source\repos\Pip-Boy-MVC\Pip-Boy-MVC\bin\Debug\netcoreapp2.0\Pip-Boy-MVC.runtimeconfig.json
+c:\users\mbutt\source\repos\Pip-Boy-MVC\Pip-Boy-MVC\bin\Debug\netcoreapp2.0\Pip-Boy-MVC.runtimeconfig.dev.json
+c:\users\mbutt\source\repos\Pip-Boy-MVC\Pip-Boy-MVC\bin\Debug\netcoreapp2.0\Pip-Boy-MVC.dll
+c:\users\mbutt\source\repos\Pip-Boy-MVC\Pip-Boy-MVC\bin\Debug\netcoreapp2.0\Pip-Boy-MVC.pdb
+c:\users\mbutt\source\repos\Pip-Boy-MVC\Pip-Boy-MVC\obj\Debug\netcoreapp2.0\Pip-Boy-MVC.csprojResolveAssemblyReference.cache
+c:\users\mbutt\source\repos\Pip-Boy-MVC\Pip-Boy-MVC\obj\Debug\netcoreapp2.0\Pip-Boy-MVC.csproj.CoreCompileInputs.cache
+c:\users\mbutt\source\repos\Pip-Boy-MVC\Pip-Boy-MVC\obj\Debug\netcoreapp2.0\Pip-Boy-MVC.AssemblyInfoInputs.cache
+c:\users\mbutt\source\repos\Pip-Boy-MVC\Pip-Boy-MVC\obj\Debug\netcoreapp2.0\Pip-Boy-MVC.AssemblyInfo.cs
+c:\users\mbutt\source\repos\Pip-Boy-MVC\Pip-Boy-MVC\obj\Debug\netcoreapp2.0\Pip-Boy-MVC.dll
+c:\users\mbutt\source\repos\Pip-Boy-MVC\Pip-Boy-MVC\obj\Debug\netcoreapp2.0\Pip-Boy-MVC.pdb
